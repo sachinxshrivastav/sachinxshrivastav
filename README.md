@@ -1,5 +1,5 @@
 # 💫 Hello, I am Sachin Shrivastav:
-Trying to make our lives easier & better by AI & ML.<br><br>- IT professional with 10+ years of experience across multiple domains like Energy & Utilities, Banking, and Healthcare.<br><br>- Certified Data Scientist with 2+ years of experience in building ML Models.<br><br>- Applying AI & ML in the IT service industry to provide class-leading experience to the end users.<br><br>- Automating manual tasks in the service industry using machine learning.<br><br>- My past experiences include working as a web application developer and support engineer, driving migrations of legacy applications to modern platforms<br><br>- I have mentored young professionals and also have been associated with the academy to create study materials and exam questions.<br><br>- I also work as a freelance wedding and portrait photographer.
+Certified Data Scientist | 10+ years of total experience across multiple domains like Energy-Utilities, Banking, and Healthcare, including 3 years of Data Science experience.
 
 
 ## 🌐 Socials:
