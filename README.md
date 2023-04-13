@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑🏽‍💻 About Me:
 Certified Data Scientist<br> 10+ years of total experience across multiple domains like <br>Energy-Utilities, Banking, and Healthcare, including 3 years of Data Science experience.
 
 ## 🌐 Socials:
